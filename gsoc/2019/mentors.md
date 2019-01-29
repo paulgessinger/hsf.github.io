@@ -13,3 +13,5 @@ layout: plain
 * Oksana Shadura [oksana.shadura@cern.ch](mailto:oksana.shadura@cern.ch) University of Nebraska
 * Mark Smith [mark.smith1@imperial.ac.uk](mailto:mark.smith1@imperial.ac.uk) Imperial College London
 * Yuka Takahashi [yuka@cern.ch](mailto:yuka@cern.ch) CERN
+* Paul Gessinger [paul.gessinger@cern.ch](mailto:paul.gessinger@cern.ch) CERN
+* Andreas Salzburger [andreas.salzburger@cern.ch](andreas.salzburger@cern.ch) CERN
